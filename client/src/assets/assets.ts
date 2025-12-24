@@ -61,7 +61,7 @@ export const assets: Record<string, string> = {
 
 export const dummyUserData: IUser = {
     _id: "689c6deed410acddc0d95a0e",
-    name: "GreatStack",
+    name: "Laxman.thedev",
     email: "admin@example.com",
     credits: 200,
 };
@@ -115,7 +115,7 @@ export const dummyChats: IChat[] = [
     {
         _id: "689de4bbaa932dc3a8ef6cd7",
         userId: "689c6deed410acddc0d95a0e",
-        userName: "GreatStack",
+        userName: "Laxman.thedev",
         name: "New Chat",
         messages: [
             {
@@ -139,7 +139,7 @@ export const dummyChats: IChat[] = [
     {
         _id: Date.now(),
         userId: "gs123456789",
-        userName: "GreatStack",
+        userName: "Laxman.thedev",
         name: "New Chat",
         messages: [],
         createdAt: "2025-08-13T17:29:52.421Z",
@@ -150,16 +150,16 @@ export const dummyChats: IChat[] = [
 /* ------------------ PUBLISHED IMAGES ------------------ */
 
 export const dummyPublishedImages: IPublishedImage[] = [
-    { imageUrl: ai_image12, userName: "GreatStack" },
-    { imageUrl: ai_image11, userName: "GreatStack" },
-    { imageUrl: ai_image10, userName: "GreatStack" },
-    { imageUrl: ai_image9, userName: "GreatStack" },
-    { imageUrl: ai_image8, userName: "GreatStack" },
-    { imageUrl: ai_image7, userName: "GreatStack" },
-    { imageUrl: ai_image6, userName: "GreatStack" },
-    { imageUrl: ai_image5, userName: "GreatStack" },
-    { imageUrl: ai_image4, userName: "GreatStack" },
-    { imageUrl: ai_image3, userName: "GreatStack" },
-    { imageUrl: ai_image2, userName: "GreatStack" },
-    { imageUrl: ai_image1, userName: "GreatStack" },
+    { imageUrl: ai_image12, userName: "Laxman.thedev" },
+    { imageUrl: ai_image11, userName: "Laxman.thedev" },
+    { imageUrl: ai_image10, userName: "Laxman.thedev" },
+    { imageUrl: ai_image9, userName: "Laxman.thedev" },
+    { imageUrl: ai_image8, userName: "Laxman.thedev" },
+    { imageUrl: ai_image7, userName: "Laxman.thedev" },
+    { imageUrl: ai_image6, userName: "Laxman.thedev" },
+    { imageUrl: ai_image5, userName: "Laxman.thedev" },
+    { imageUrl: ai_image4, userName: "Laxman.thedev" },
+    { imageUrl: ai_image3, userName: "Laxman.thedev" },
+    { imageUrl: ai_image2, userName: "Laxman.thedev" },
+    { imageUrl: ai_image1, userName: "Laxman.thedev" },
 ];
