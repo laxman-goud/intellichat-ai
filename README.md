@@ -1,4 +1,4 @@
-# 🤖 IntelliChat — Intelligent AI Assistant
+#  IntelliChat — Intelligent AI Assistant
 
 IntelliChat is a **full-stack AI chat application** built using the **MERN stack with TypeScript**, designed to provide **AI-powered text and image generation**, user authentication, credit-based usage, community image sharing, and secure payment integration.
 
@@ -12,49 +12,49 @@ This project follows **real-world backend + frontend architecture**, RESTful API
 
 ---
 
-## 🧠 Features
+##  Features
 
-### 🔐 Authentication & Authorization
+###  Authentication & Authorization
 
 * User registration & login (JWT-based)
 * Protected routes using middleware
 * Secure password hashing with bcrypt
 
-### 💬 AI Chat
+###  AI Chat
 
 * Text-based AI responses (Gemini / OpenAI-compatible API)
 * Image generation using AI
 * Chat history stored per user
 * Multiple chats per user
 
-### 🎨 Community Images
+###  Community Images
 
 * Users can publish generated images
 * Public community gallery
 * Displays creator name with image
 
-### 💳 Credit System
+###  Credit System
 
 * Credit-based AI usage
 * Text messages consume credits
 * Image generation consumes more credits
 * Real-time credit updates in UI
 
-### 💰 Payments (Stripe)
+###  Payments (Stripe)
 
 * Purchase credit plans
 * Secure Stripe Checkout
 * Webhook handling for payment confirmation
 * Automatic credit top-up after payment
 
-### 🌗 UI & UX
+###  UI & UX
 
 * Dark / Light mode toggle
 * Responsive layout
 * Sidebar chat navigation
 * Loading states & toast notifications
 
-### 🛠 Developer Friendly
+###  Developer Friendly
 
 * Full TypeScript (Client + Server)
 * Clean folder structure
@@ -64,7 +64,7 @@ This project follows **real-world backend + frontend architecture**, RESTful API
 
 ---
 
-## 🏗 Tech Stack
+##  Tech Stack
 
 ### Frontend (Client)
 
@@ -130,7 +130,7 @@ intellichat-ai/
 
 ---
 
-## ⚙️ Setup Guide (Local Development)
+##  Setup Guide (Local Development)
 
 ### 1️⃣ Clone the repository
 
